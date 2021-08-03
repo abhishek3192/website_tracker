@@ -1,7 +1,7 @@
 # website_tracker
 
 Clone the repository
-cd into the website tracker folder where package.json is situated
+cd into the website tracker folder where package.json is located
 
 type the following commands:
 
